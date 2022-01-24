@@ -2,7 +2,7 @@
 
 I’ve just completed a 12 week intensive software developer course at _nology and I'm on the look out for my first role as a Junior Software Developer 👀
 
-### 🤹‍ On the course I've learnt a range of skills: ###
+### 🤹‍ Skill set: ###
 
 - HTML5
 - CSS/SASS
