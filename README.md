@@ -7,7 +7,7 @@ I’ve just completed a 12 week intensive software developer course at _nology a
 - HTML5
 - CSS/SASS
 - JavaScript (ES6)
-- React
+- React ♥
 - Jest, React Testing Library, Cypress
 - Java
 - Spring
