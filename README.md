@@ -13,6 +13,6 @@ I’ve just completed a 12 week intensive software developer course at _nology a
 - Spring
 - REST APIs
 
-### 🖥 I've pinned the repos to the various projects I worked on during my time on the course below, so please take a look! ### 
+### 🖥 I've pinned the repos to some of the projects I worked on during my time on the course below, so please take a look! ### 
 
 
