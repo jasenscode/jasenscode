@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Jasen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 Hi, I’m Jasen and welcome to my GitHub! ##
 
-<!---
-jasenscode/jasenscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’ve just completed a 12 week intensive software developer course at _nology and I'm on the look out for my first role as a Junior Software Developer 👀
+
+### 🤹‍ On the course I learnt a range of skills: ###
+
+- HTML5
+- CSS/SASS
+- JavaScript (ES6)
+- React
+- Jest, React Testing Library, Cypress
+- Java
+- Spring
+- REST APIs
+
+### 🖥 I've pinned the repos to the various projects I worked on during my time on the course below, so please take a look! ### 
+
+
