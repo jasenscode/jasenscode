@@ -21,5 +21,5 @@ I’ve just completed a 12 week intensive software developer course at _nology a
 + [Bomb Jump JS Game](https://github.com/jasenscode/javascript-game) 💣 A JavaScript game, inspired by the Google's T-Rex jump
 + [Morse Code Translator](https://github.com/jasenscode/morse-translator) ↔ A morse code translator created using a Test Driven Development methodology
 + [Brewlog](https://github.com/jasenscode/punk-api) 🍺 My first project using an API
-+ [Bibliotaph](https://github.com/jasenscode/books) 📕 A full stack project made using React in the front and Java/Spring in the back!
++ [Bibliotaph](https://github.com/jasenscode/books) 📕 A full stack project made using React in the front and [Java/Spring in the back](https://github.com/jasenscode/books-java-spring)!
 + [OAE Event Programme](https://github.com/nology-tech/oae-event-programme) 🎻 A real life client project creating a React web application to display event programmes for an orchestras live performances 
